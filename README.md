@@ -1,8 +1,5 @@
 # Database-Management-SQL-2021-Fall
 This is the repo for Database Management SQL (DB 110-1) at NTU
- - Reference: Modern Database Management (13th edition/2019) by Jeff Hoffer, Ramesh, and Heikki Topi, Pearson
- - Case Study: Fundamentals of Database Systems (7th edition, 2015) by R. Elmasri and S.B. Navathe, Addison-Wesley
- - Supplement: Big Data : A Revolution that will transform how we live, work, and think (2013) by Viktor Mayer-Schonberger, Kenneth Cukier.
 
 ## Final Project: []
 
@@ -22,3 +19,9 @@ This is the repo for Database Management SQL (DB 110-1) at NTU
 - W12: Big Data and Analytics (1) - [HW5]
 - W13: Big Data and Analytics (2)	
 - W14: Final Exam and Final Project
+
+## Reference
+ - Reference: Modern Database Management (13th edition/2019) by Jeff Hoffer, Ramesh, and Heikki Topi, Pearson
+ - Case Study: Fundamentals of Database Systems (7th edition, 2015) by R. Elmasri and S.B. Navathe, Addison-Wesley
+ - Supplement: Big Data : A Revolution that will transform how we live, work, and think (2013) by Viktor Mayer-Schonberger, Kenneth Cukier.
+
