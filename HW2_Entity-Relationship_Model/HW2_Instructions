@@ -1,0 +1,26 @@
+## HW2 Instructions
+Draw a comprehensive E-R model diagram
+• Use MySQL to create table and mark the relationships between Entity 利用 MySQL 建立表格與關聯
+• Create test data 建立測試用的範例資料
+
+
+## Scenario 1: 
+The school entrusts you to reorganize the library, and you follow the school's requirements (business rules) to redesign database
+– Limited to the library of the school, including multiple branch libraries
+– It is necessary to create complete bibliographic information, and each bibliography has multiple collections
+– Bibliographic information contains at least the first 10 fields of Dublin Core
+– Each book collection will only belong to one branch library
+– Each collection has an independent collection number and collection date
+– Need to establish bibliographic source (publisher profile)
+– The borrower is a student, each person can borrow multiple books, and a borrowing record needs to be established
+• Other schools have no opinion, please use your own
+
+## Scenario 2
+Winter is coming, and the students in the dormitory don’t want to go out to eat. Please develop the bento database. The requirements (business rules) are as follows:
+– Limited to the students of the school, including multiple dormitories
+– Need to create restaurant and menu information (including price) for students to order
+– Various/multiple bentos can be ordered per order to meet the needs of large stomachs
+– Pay a fee at a fixed location to receive the bento, and multiple collection locations can be provided; students can choose the collection location when ordering
+– Held for every meal every day, or make an appointment at any time, or other modes are available
+– Historical ordering records need to be kept for future statistics of popular menus
+• Students in other dormitories have no opinion, please use your own
