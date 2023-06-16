@@ -1,10 +1,10 @@
 # Database-Management-SQL-2021-Fall
 This is the repo for Database Management SQL (DB 110-1) at NTU
 
-## Final Project: [Shopee Online Share of Voice Analysis](https://github.com/anniechen0506/Database-Management-SQL-2021-Fall/tree/main/Final_Project_Share%20of%20Voice%20Analysis)
+## Final Project: [Shope Online Share of Voice Analysis](https://github.com/anniechen0506/Database-Management-SQL-2021-Fall/tree/main/Final_Project_Share%20of%20Voice%20Analysis)
 Shopee is an online e-commerce platform.
 The project focuses on reporting to Shopee executives the trends discussed in the online forums during the pandemic. 
- - First examines Shoppee's comments on job hunting, 
+ - First examines Shopee's comments on job hunting, 
  - Then discusses its online shopping trends to understand the impact of the pandemic on e-commerce platforms
  - Based on the above points of view, the project provides suggestions for future e-commerce marketing.
 
