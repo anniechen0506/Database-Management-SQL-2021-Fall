@@ -20,9 +20,9 @@ The project focuses on reporting to Shopee executives the trends discussed in th
 - W9: Data Concurrency and Security	
 - W10: Data Warehousing
 - W11: Database Infrastructure
-- W12: Big Data and Analytics (1) - HW5
+- W12: Big Data and Analytics (1) 
 - W13: Big Data and Analytics (2)	
-- W14: Final Exam and Final Project
+- W14: Final Exam and Final Project Presentation - [Final Project](https://github.com/anniechen0506/Database-Management-SQL-2021-Fall/tree/main/Final_Project_Share%20of%20Voice%20Analysis)
 
 ## Reference
  - Reference: Modern Database Management (13th edition/2019) by Jeff Hoffer, Ramesh, and Heikki Topi, Pearson
